@@ -1,3 +1,9 @@
+'''
+Created on 8 de set de 2017
+
+@author: Lucas
+'''
+
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
