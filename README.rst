@@ -1,12 +1,8 @@
-Sample Module Repository
+QRCDoor Embeded
 ========================
 
-This simple project is an example repo for Python projects.
+`Read more <http://gepta.weebly.com/qrc-door.html>`_.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+pip install websocket-client
 
 ---------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
-
-✨🍰✨
