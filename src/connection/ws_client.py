@@ -11,9 +11,9 @@ class WSThread(Thread):
         Thread.__init__(self)
     
     def run(self):
-        import http_client, server_cfg
+        from connection import http_client, server_cfg
                         
-        print('INFO: Conectando ao websocket')
+        print('INFO: Connecting to server by websocket')
         url = server_cfg.ws()
         cookies = http_client.login()
         cookie = 'SESSION={0}'.format(cookies['SESSION'])
