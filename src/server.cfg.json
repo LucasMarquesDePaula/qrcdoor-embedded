@@ -1,1 +1,1 @@
-{"server-location": "localhost:8070", "login-path": "login", "websocket-path": "open"}
+{"server-location": "192.168.1.3:8070", "login-path": "login", "websocket-path": "open"}
