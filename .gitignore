@@ -52,3 +52,4 @@ Temporary Items
 
 # Python
 __pycache__
+*.pyc
